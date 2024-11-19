@@ -1,10 +1,10 @@
 # Hospital Management System
 
-![Front End](FrontEnd.png)
+![Front End](hos.png)
 
 ## Front End
 
-![Front End](FrontEnd.png)
+![Front End](hos2.png)
 
 ## Back End
 
