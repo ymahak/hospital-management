@@ -1,10 +1,10 @@
 # Hospital Management System
 
-![Front End](FrontEnd.png)
+![Front End](hos.png)
 
 ## Front End
 
-![Front End](FrontEnd.png)
+![Front End](hos2.png)
 
 ## Back End
 
@@ -29,10 +29,10 @@ Follow these instructions to set up and run the project locally on your Machine.
 1. Clone the repository:
 
 ```bash
-   git clone https://github.com/tauseedzaman/hospitalMS.git
+   git clone https://github.com/ymahak/hospital-management.git
 ```
  ```bash
-   cd hospitalMS
+   cd hospital-management
 ```
 
  ```bash
@@ -57,11 +57,11 @@ php artisan storage:link
 ## Admin Credentials
 Admin: 
 ```bash 
-tauseed@test.com
+Mahakyadav04@gmail.com
 ```
 Password: 
 ```bash
-tauseed
+HelloThere15
 ```
 
 ## If you like our project please leave a star ❤
